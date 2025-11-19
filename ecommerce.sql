@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Ecommerce Website</title>
-</head>
-<body>
-    <h1>Halo, ini halaman ecommerce</h1>
-</body>
-</html>
-
 -- ============================================
 --  DATABASE E-COMMERCE
 --  Tugas: Membuat Database MySQL
@@ -73,3 +63,4 @@ WHERE id = 1;
 -- DELETE: Menghapus produk
 
 DELETE FROM products WHERE id = 1;
+
